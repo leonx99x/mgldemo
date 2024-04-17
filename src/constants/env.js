@@ -1,7 +1,7 @@
 //export const SERVER_URL = "https://mglcoin.io/api/";
 export const SERVER_URL = "http://localhost:5000/api/";
 //export const SERVER_URL = "http://10.10.12.157:5000/api/";
-
+export const PROJECT_ID = "fb87cc3f47ec7487343089476855dd8c";
 export const networks = [
   {
     name: "Mainnet (Polygon)",

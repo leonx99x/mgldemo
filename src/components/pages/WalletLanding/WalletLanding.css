@@ -57,6 +57,12 @@
     color: #ffffff
 }
 
+.walletconnect-button {
+    background-color: rgb(121, 57, 240);
+    border-radius: 6px;
+    color: #ffffff
+}
+
 .use-button {
     background-color: rgb(232, 73, 112);
     border-radius: 6px;
